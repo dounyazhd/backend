@@ -1,0 +1,12 @@
+# requirements1.txt
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+absl-py==2.1.0
+aiodns==3.2.0
+aiosmtpd==1.4.5
+appdirs==1.4.4
+asgiref==3.8.1
+astunparse==1.6.3
+atomicwrites==1.4.0
+atpublic==4.1.0
+backports.weakref==1.0.post1
+clyent>=1.2.0
