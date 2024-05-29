@@ -1,4 +1,6 @@
-﻿absl-py==2.1.0
+tensorflow-cpu==2.16.1
+
+absl-py==2.1.0
 aiodns==3.2.0
 aiosmtpd==1.4.5
 appdirs==1.4.4
@@ -76,7 +78,7 @@ streamlit==1.32.1
 
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
-tensorflow-cpu==2.16.1
+
 #tensorflow-intel==2.16.1
 #tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
