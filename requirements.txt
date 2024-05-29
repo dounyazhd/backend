@@ -7,7 +7,7 @@ astunparse==1.6.3
 atomicwrites==1.4.0
 atpublic==4.1.0
 backports.weakref==1.0.post1
-clyent==1.2.2
+clyent>=1.2.0
 
 conda-repo-cli==1.0.75
 conda-verify==3.4.2
