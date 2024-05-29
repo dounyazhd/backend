@@ -7,7 +7,7 @@ astunparse==1.6.3
 atomicwrites==1.4.0
 atpublic==4.1.0
 backports.weakref==1.0.post1
-clyent>=1.2.0
+#clyent>=1.2.0
 
 #conda-repo-cli==1.0.75
 # conda-verify==3.4.2
@@ -68,7 +68,7 @@ python-lsp-jsonrpc==1.0.0
 
 scipy==1.11.4
 
-serverless-wsgi==3.0.4
+#serverless-wsgi==3.0.4
 
 sqlparse==0.2.4
 
@@ -77,8 +77,8 @@ streamlit==1.32.1
 tensorboard==2.16.2
 tensorboard-data-server==0.7.2
 tensorflow-cpu==2.16.1
-tensorflow-intel==2.16.1
-tensorflow-io-gcs-filesystem==0.31.0
+#tensorflow-intel==2.16.1
+#tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 
 validate-email-address==1
