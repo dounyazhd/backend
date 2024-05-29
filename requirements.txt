@@ -10,7 +10,8 @@ backports.weakref==1.0.post1
 clyent>=1.2.0
 
 #conda-repo-cli==1.0.75
-conda-verify==3.4.2
+# conda-verify==3.4.2
+
 distlib==0.3.8
 Django==3.2
 django-cors-headers==4.3.1
